@@ -9,5 +9,5 @@ Ambos os códigos têm o objetivo de verificar se um número dado pertence à se
 
 **Motivo de duas linguagens**
 
-Decidi usar duas linguagens pois comecei a fazer com o Java, porém não consegui fazer função recursiva com Java dada à minha menor experiência com a linguagem, então fiz com JS.
+Decidi usar duas linguagens pois comecei a fazer com o Java, porém não consegui aplicar função recursiva com a linguagem considerando a minha menor experiência, então fiz com JS.
 Entretanto, gostei do meu código em Java, e decidi incluir também.
